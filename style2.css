@@ -1,0 +1,35 @@
+.h{
+    background-color: black;
+    height: 50px;
+    color: white;
+    padding-top: 20px;
+}
+.g{
+    background-color: black;
+    color: white;
+    height: 300px;
+    padding-top: 60px;
+}
+.a{
+    position: relative;
+}
+.b{
+    position: relative;
+    top: 15px;
+}
+.c{
+    position: relative;
+    top: 30px;
+}
+.d{
+    position: relative;
+    top: 45px;
+}
+.e{
+    position: relative;
+    top: 60px;
+}
+.f{
+    position: relative;
+    top: 75px;
+}
